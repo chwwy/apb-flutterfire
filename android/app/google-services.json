@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "564193957542",
+    "firebase_url": "https://apb-week12-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "apb-week12",
+    "storage_bucket": "apb-week12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564193957542:android:af9346cbb023b733bd8667",
+        "android_client_info": {
+          "package_name": "com.example.flutterfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWEVkVEt-0UQfhyFEMddtdc-eaN2p3vQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
